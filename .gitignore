@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+.test-data-key
+test-settings.json
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.log
+node_modules/
